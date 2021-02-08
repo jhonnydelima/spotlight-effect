@@ -1,0 +1,1 @@
+# Spotlight effect with CSS
